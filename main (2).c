@@ -1,6 +1,4 @@
-/* COP 3502C Programming Assignment 3
-This program is written by: Hong Thy Nguyen */
-//#define _CRT_SECURE_NO_WARNINGS
+
 
 #include <math.h>
 #include <stdio.h>
